@@ -114,8 +114,7 @@ No. Variables Type Description
 45 status Chr Describes if the startup is a success or a failure
 
 
-Data Exploration – We will look at the following queries using summary statistics and 
-visualization tools:
+Data Exploration
 
 1. What is the overall success/failure rate of startups in various places and categories?
 2. The link between various financing categories and qualities, such as the first and last 
@@ -135,4 +134,3 @@ test data.
 4. Conclusion: What can we learn from our classification model for performance of startups
 and how can we use this model to help investors make informed investment decisions in 
 startups?
-** End of Document*
