@@ -4,7 +4,7 @@ cat("\014")
 
 # Data Input
 
-setwd("C:/Users/SHEKHAR/Desktop/UTD MSBA Spring/BA with R/Project 1")
+setwd("C:/Users/SHEKHAR/Desktop/Startup/Project_1")
 df<- read.csv("startup data.csv" , stringsAsFactors = F)
 
 # Importing required libraries:
