@@ -124,7 +124,7 @@ classification models.
 
 
 1. Data Understanding and Preparation: Here, we may execute data cleaning, merging, 
-exploration, removing/fixing missing values, feature engineering, checking for duplicates,
+exploration, removing/fixing missing values, checking for duplicates,
 etc.
 2. Modelling: Using accessible and significant features discovered via data exploration, we 
 will apply classification models to forecast the performance for startups (column: status 
